@@ -6,7 +6,7 @@ To run this project locally, follow these steps:
 
 Clone the repository:
 ```bash
-git clone https://github.com/your-username/image-text-search.git
+git clone https://github.com/Venkatesh-Bharath/Text2Image-Search.git
 ```
 Install the required Python packages:
 ```bash
